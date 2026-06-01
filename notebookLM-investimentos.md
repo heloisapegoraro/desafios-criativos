@@ -91,9 +91,9 @@ Estes prompts são projetados para serem utilizados com modelos de linguagem (co
 
 1. **Prompt para Resumo de Conceitos:**
 
-&#x20;   `"Explique de forma concisa os conceitos de \\\[CONCEITO\\\_1], \\\[CONCEITO\\\_2] e \\\[CONCEITO\\\_3] no contexto de investimentos, destacando suas inter-relações e importância para o investidor iniciante. Utilize as fontes fornecidas para embasar a resposta."`
+&#x20;   `"Explique de forma concisa os conceitos de [CONCEITO_1], [CONCEITO_2] e [CONCEITO_3] no contexto de investimentos, destacando suas inter-relações e importância para o investidor iniciante. Utilize as fontes fornecidas para embasar a resposta."`
 
-*Exemplo:* "Explique de forma concisa os conceitos de rentabilidade, liquidez e risco no contexto de investimentos, destacando suas inter-relações e importância para o investidor iniciante. Utilize as fontes fornecidas para embasar a resposta."
+Exemplo: "Explique de forma concisa os conceitos de rentabilidade, liquidez e risco no contexto de investimentos, destacando suas inter-relações e importância para o investidor iniciante. Utilize as fontes fornecidas para embasar a resposta."
 
 2. **Prompt para Comparação de Títulos (Tesouro Direto):**
 
@@ -102,7 +102,7 @@ Estes prompts são projetados para serem utilizados com modelos de linguagem (co
 
    &#x20;   ```
 
-   \*Exemplo:\* "Compare os títulos Tesouro Selic e Tesouro IPCA+ do Tesouro Direto, abordando suas características de rentabilidade, indicação de perfil de investidor e cenários econômicos ideais para cada um. Inclua informações sobre os custos e impostos aplicáveis. Baseie-se nas informações do 'Guia do Investidor - Tesouro Direto'."
+   Exemplo: "Compare os títulos Tesouro Selic e Tesouro IPCA+ do Tesouro Direto, abordando suas características de rentabilidade, indicação de perfil de investidor e cenários econômicos ideais para cada um. Inclua informações sobre os custos e impostos aplicáveis. Baseie-se nas informações do 'Guia do Investidor - Tesouro Direto'."
 
 3. **Prompt para Análise de Riscos:**
 
@@ -111,7 +111,7 @@ Estes prompts são projetados para serem utilizados com modelos de linguagem (co
 
    &#x20;   ```
 
-   \*Exemplo:\* "Descreva os principais tipos de risco associados a investimentos, como risco de mercado, risco de crédito e risco de liquidez. Explique como cada um pode afetar o investidor e quais estratégias podem ser adotadas para mitigá-los, conforme o material 'Princípios de Investimento - CPA-10 (ANBIMA)'."
+   Exemplo: "Descreva os principais tipos de risco associados a investimentos, como risco de mercado, risco de crédito e risco de liquidez. Explique como cada um pode afetar o investidor e quais estratégias podem ser adotadas para mitigá-los, conforme o material 'Princípios de Investimento - CPA-10 (ANBIMA)'."
 
 4. **Prompt para Definição de Termo Específico:**
 
@@ -120,7 +120,7 @@ Estes prompts são projetados para serem utilizados com modelos de linguagem (co
 
    &#x20;   ```
 
-   \*Exemplo:\* "Qual a definição de CVM no contexto do mercado financeiro e qual sua relevância para o investidor? Cite a fonte de onde a informação foi extraída."
+   Exemplo: "Qual a definição de CVM no contexto do mercado financeiro e qual sua relevância para o investidor? Cite a fonte de onde a informação foi extraída."
 
 # Engenharia de Prompts e "Cicatrizes"
 

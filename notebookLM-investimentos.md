@@ -104,8 +104,6 @@ Estes prompts são projetados para serem utilizados com modelos de linguagem (co
 
    \*Exemplo:\* "Compare os títulos Tesouro Selic e Tesouro IPCA+ do Tesouro Direto, abordando suas características de rentabilidade, indicação de perfil de investidor e cenários econômicos ideais para cada um. Inclua informações sobre os custos e impostos aplicáveis. Baseie-se nas informações do 'Guia do Investidor - Tesouro Direto'."
 
-3. \*\*Prompt para Análise de Riscos:\*\*
-
 3. **Prompt para Análise de Riscos:**
 
    &#x20;   ```
@@ -114,8 +112,6 @@ Estes prompts são projetados para serem utilizados com modelos de linguagem (co
    &#x20;   ```
 
    \*Exemplo:\* "Descreva os principais tipos de risco associados a investimentos, como risco de mercado, risco de crédito e risco de liquidez. Explique como cada um pode afetar o investidor e quais estratégias podem ser adotadas para mitigá-los, conforme o material 'Princípios de Investimento - CPA-10 (ANBIMA)'."
-
-4. \*\*Prompt para Definição de Termo Específico:\*\*
 
 4. **Prompt para Definição de Termo Específico:**
 

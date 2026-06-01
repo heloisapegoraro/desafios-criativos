@@ -1,0 +1,66 @@
+Caderno Temático no NotebookLM: Introdução aos Investimentos
+
+Contexto e Objetivos
+
+Este projeto prático visa explorar o uso da Inteligência Artificial como uma ferramenta de aprendizagem ativa, aplicando pensamento crítico, curadoria de fontes e organização do conhecimento para criar um Caderno Temático no NotebookLM. Como estudante de tecnologia, escolhi o assunto "Introdução aos Investimentos" para demonstrar a capacidade de sintetizar informações complexas e estruturar um material de estudo abrangente e acessível.
+
+Os objetivos de estudo com este material são:
+
+•
+Compreender os conceitos fundamentais de investimentos: Adquirir uma base sólida sobre o que são investimentos, seus tipos, riscos e retornos.
+
+•
+Identificar e analisar diferentes modalidades de investimento: Explorar as características de investimentos como Tesouro Direto, fundos de investimento e outros ativos de renda fixa e variável.
+
+•
+Desenvolver habilidades de curadoria de conteúdo: Selecionar e avaliar fontes de informação confiáveis e relevantes para o tema.
+
+•
+Aprimorar a engenharia de prompts para IA: Elaborar perguntas estratégicas e otimizar prompts para extrair informações precisas e úteis de modelos de linguagem, documentando o processo e as "cicatrizes" (dificuldades e soluções).
+
+•
+Organizar o conhecimento de forma estruturada: Criar resumos, glossários e prompts reutilizáveis que facilitem a revisão e o aprendizado contínuo.
+
+•
+Demonstrar maturidade técnica na estruturação de um repositório GitHub: Organizar o projeto de forma clara e profissional, contemplando todas as etapas do desenvolvimento.
+
+Curadoria de Fontes
+
+A seguir, são listadas as fontes abertas em texto ou PDF que foram selecionadas para o upload no NotebookLM e que servirão como base para a construção do Caderno Temático. Estas fontes foram escolhidas por sua relevância, autoridade e acessibilidade para o público iniciante em investimentos:
+
+1.
+Livros CVM - Publicações Educacionais 
+
+
+•
+Descrição: Série de publicações educacionais desenvolvidas ou apoiadas pela CVM, com foco em temas relevantes do mercado de capitais, apresentados em linguagem acessível.
+
+•
+Link: https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm
+
+
+
+2.
+Guia do Investidor - Tesouro Direto 
+
+
+•
+Descrição: Material informativo sobre o Tesouro Direto, programa que permite a qualquer pessoa física investir em títulos públicos federais pela internet, com foco em previsibilidade e segurança.
+
+•
+Link: https://repositorio.enap.gov.br/bitstream/1/6248/1/Guia_Investidor%20TD.pdf
+
+
+
+3.
+Princípios de Investimento - Material de Estudos CPA-10 (ANBIMA ) 
+
+
+•
+Descrição: Capítulo do material de estudos da certificação CPA-10 da ANBIMA, que aborda os princípios fundamentais de investimento, incluindo fatores de análise, rentabilidade, liquidez e riscos.
+
+•
+Link: https://www.anbima.com.br/data/files/74/40/1D/33/466A4810EA926748882BA2A8/CPA-10-Cap4.pdf
+
+
+
